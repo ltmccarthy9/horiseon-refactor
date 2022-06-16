@@ -21,7 +21,8 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    /* altered color to make more visible*/
+    color: #959b90;
 }
 
 .header div {
@@ -47,7 +48,8 @@ a {
 }
 
 p {
-    font-size: 16px;
+    /* font size was a bit small, increased to 18*/
+    font-size: 18px;
 }
 
 .hero {
