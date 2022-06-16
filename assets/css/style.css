@@ -34,9 +34,9 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
-    list-style-type: none;
-}
+/* .header nav ul {
+    list-style-type: none; - not needed
+} */
 
 .header nav ul li {
     display: inline-block;
@@ -61,6 +61,28 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*v combined all subclasses in "content" into "information", as all had same attributes*/
+.information {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.information img {
+    max-height: 200px;
+}
+
+/* moved information changes up in file to match flow of html.*/
+.information h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*^combined all subclasses in "content" into "information", as all had same attributes*/
 
 .float-left {
     float: left;
@@ -107,28 +129,6 @@ p {
     max-width: 150px;
 }
 /* ^combined all benefit-class series into one "benefit-lead" as changes were same for all*/
-
-/*v combined all subclasses in "content" into "information", as all had same attributes*/
-.information {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.information img {
-    max-height: 200px;
-}
-
-
-.information h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/*^combined all subclasses in "content" into "information", as all had same attributes*/
 
 .footer {
     padding: 30px;
