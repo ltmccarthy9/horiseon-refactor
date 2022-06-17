@@ -8,7 +8,7 @@ This project is a refactor of the Horisean website in order to satisfy user stor
 
 ## Site Functionality
 
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-d6f68b1b3a.gif)
+![Alt Text](horiseon.gif)
 
 
 ## Code
