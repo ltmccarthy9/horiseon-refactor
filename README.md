@@ -13,13 +13,13 @@ This project is a refactor of the Horisean website in order to satisfy user stor
 
 ## Code
 
-![alt text](https://github.com/[ltmccarthy9]/[horiseon-refactor]/blob/[main]/screenshot1.png?raw=true)
+![alt text](https://raw.githubusercontent.com/ltmccarthy9/horiseon-refactor/main/screenshots/screenshot1.png)
 
-![alt text](https://github.com/[ltmccarthy9]/[horiseon-refactor]/blob/[main]/screenshot2.png?raw=true)
+![alt text](https://raw.githubusercontent.com/ltmccarthy9/horiseon-refactor/main/screenshots/screenshot2.png)
 
-![alt text](https://github.com/[ltmccarthy9]/[horiseon-refactor]/blob/[main]/screenshot3.png?raw=true)
+![alt text](https://raw.githubusercontent.com/ltmccarthy9/horiseon-refactor/main/screenshots/screenshot3.png)
 
-![alt text](https://github.com/[ltmccarthy9]/[horiseon-refactor]/blob/[main]/screenshot4.png?raw=true)
+![alt text](https://raw.githubusercontent.com/ltmccarthy9/horiseon-refactor/main/screenshots/screenshot4.png)
 
 
 
