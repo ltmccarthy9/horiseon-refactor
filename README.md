@@ -7,18 +7,19 @@ This project is a refactor of the Horisean website in order to satisfy user stor
 
 
 ## Site Functionality
+
 ![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-d6f68b1b3a.gif)
 
 
 ## Code
 
-![alt text](screenshot1.png "Title")
+![alt text](https://github.com/[ltmccarthy9]/[horiseon-refactor]/blob/[main]/screenshot1.png?raw=true)
 
-![alt text](screenshot2.png "Title")
+![alt text](https://github.com/[ltmccarthy9]/[horiseon-refactor]/blob/[main]/screenshot2.png?raw=true)
 
-![alt text](screenshot3.png "Title")
+![alt text](https://github.com/[ltmccarthy9]/[horiseon-refactor]/blob/[main]/screenshot3.png?raw=true)
 
-![alt text](screenshot4.png "Title")
+![alt text](https://github.com/[ltmccarthy9]/[horiseon-refactor]/blob/[main]/screenshot4.png?raw=true)
 
 
 
