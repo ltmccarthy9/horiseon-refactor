@@ -5,6 +5,13 @@
 Prior to this project, the Horisean website worked on the surface but needed fixes to it's semantic HTML elements, accessability, and search engine optization.
 This project is a refactor of the Horisean website in order to satisfy user story and all acceptance criteria -- making the site better optimized and more accessible.
 
+## Technologies Used
+
+* Visual Studio Code
+* HTML
+* CSS
+* Git
+* GitBash
 
 ## Site Functionality
 
@@ -23,10 +30,3 @@ This project is a refactor of the Horisean website in order to satisfy user stor
 
 
 
-## Technologies Used
-
-*Visual Studio Code
-*HTML
-*CSS
-*Git
-*GitBash
